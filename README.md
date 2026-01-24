@@ -1,6 +1,6 @@
-# An-app-for-watching-TikTok-using-a-Nescafe-mug
+# An-app-for-watching-TikTok-using-a-Nescafe-mug-in-Python-3.10
 
-This program is written in Python for viewing TikTok videos using a Nescafe mug.
+
 
 by 4elik123
 
